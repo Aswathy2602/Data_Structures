@@ -1,4 +1,3 @@
-package CIE_1;
 import java.util.*;
 public class PreOrderTraversal_2 {
     public static class Node {
